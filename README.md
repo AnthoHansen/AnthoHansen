@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">¡Buenas! 👋, Soy Antho</h1>
 
-- 🔭 Actualmente trabajo en **FiveM (ESX, QBCore), Creación y diseño de Discord,**
+- 🔭 Actualmente trabajo en **FiveM (ESX, QBCore), Creación y diseño de Servidores de Discord, Programación de servidores de ARK: SE, Rust y Minecraft**
 
 - 🌱 Actualmente estoy aprendiendo **Lua, HTML 5, CSS3**
 
