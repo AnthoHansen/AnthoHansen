@@ -1,25 +1,10 @@
-<!--
-**Antho7Twitch/Antho7Twitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">¡Buenas! 👋, Soy AnthoHansen</h1>
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=Antho7Twitch.Antho7Twitch)
 [![Linkedin: Antho7](https://img.shields.io/badge/AnthonyD.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Antho7/)](https://www.linkedin.com/in/Antho7/)
 [![Github](https://img.shields.io/github/followers/Antho7Twitch?label=Follow&style=social)](https://github.com/Antho7Twitch)
 
-- 🔭 Actualmente trabajo en **FiveM (ESX, QBCore), Localización Española de Scripts, Creación y diseño de Servidores de Discord**
+- 🔭 Actualmente trabajo en **FiveM (ESX, QBCore), Localización Española de Scripts y herramientas, Creación y diseño de Servidores de Discord**
 
 - 🌱 Actualmente estoy aprendiendo **Lua, HTML 5, CSS3**
 
