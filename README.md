@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">¡Buenas! 👋, Soy AnthoHansen</h1>
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=Antho7Twitch.Antho7Twitch)
-[![Linkedin: AnthoHansen](https://img.shields.io/badge/Anthony D.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Antho7/)](https://www.linkedin.com/in/Antho7/)
+[![Linkedin: Antho7](https://img.shields.io/badge/AnthonyD.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Antho7/)](https://www.linkedin.com/in/Antho7/)
 [![Github](https://img.shields.io/github/followers/Antho7Twitch?label=Follow&style=social)](https://github.com/Antho7Twitch)
 
 - 🔭 Actualmente trabajo en **FiveM (ESX, QBCore), Localización Española de Scripts, Creación y diseño de Servidores de Discord**
