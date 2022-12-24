@@ -6,7 +6,7 @@
 
 - 🔭 Actually i'm working on **FiveM (ESX, QBCore), Spanish localization of scripts and tools, Creation and design of Discord Servers...**
 
-- 🌱 Learning **Lua, HTML 5, CSS3**
+- 🌱 Learning **Lua, HTML 5, CSS3, Javascript & Typescript**
 
 - 👨‍💻 My projects [https://github.com/Antho7Twitch?tab=repositories](https://github.com/Antho7Twitch?tab=repositories)
 
