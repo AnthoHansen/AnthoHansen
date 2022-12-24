@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente trabajo en **FiveM (ESX, QBCore), Localización Española de Scripts y herramientas, Creación y diseño de Servidores de Discord**
 
-- 🌱 Actualmente estoy aprendiendo **Lua, HTML 5, CSS3**
+- 🌱 Actualmente estoy aprendiendo **Lua, HTML 5, CSS3, Javascript & Typescript**
 
 - 👨‍💻 Mis proyectos [https://github.com/Antho7Twitch?tab=repositories](https://github.com/Antho7Twitch?tab=repositories)
 
