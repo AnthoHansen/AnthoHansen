@@ -1,23 +1,27 @@
-<h1 align="center">¡Hi there! 👋, I'm AnthoHansen</h1>
+# 💫 About Me:
+¡Hi there! 👋, I'm AnthoHansen, welcome to my profile.
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=Antho7Twitch.Antho7Twitch)
 [![Linkedin: Antho7](https://img.shields.io/badge/AnthonyD.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Antho7/)](https://www.linkedin.com/in/Antho7/)
 [![Github](https://img.shields.io/github/followers/Antho7Twitch?label=Follow&style=social)](https://github.com/Antho7Twitch)
 
-- 🔭 Actually i'm working on **FiveM (ESX, QBCore), Spanish localization of scripts and tools, Creation and design of Discord Servers...**
+- 🔭 I'm working on **PHP, Python, FiveM (ESX, QBCore, QBox...), redesign and optimization of the textures of clothes and cars for FiveM servers, Creation and design of Discord Servers, and sooooo many more stuff.**
 
-- 🌱 Learning **Lua, HTML 5, CSS3, Javascript & Typescript**
+- 🌱 I'm currently working and learning **Lua, PHP, Python, Javascript**
 
 - 👨‍💻 My projects [https://github.com/Antho7Twitch?tab=repositories](https://github.com/Antho7Twitch?tab=repositories)
 
 - 📫 Contact me by DM on Twitter **@AnthoHansen**
 
-<h3 align="left">Follow me on Social Media:</h3>
-<p align="left">
-<a href="https://twitter.com/anthohansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthohansen" height="30" width="40" /></a>
-<a href="https://instagram.com/anthohansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthohansen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anthonyhansen7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anthonyhansen7" height="30" width="40" /></a>
-</p>
+## 🌐 Social Media:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antho7) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/anthohansen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anthohansen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anthonyhansen7)
 
-<h3 align="left">Tools and languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=antho7twitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=antho7twitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
