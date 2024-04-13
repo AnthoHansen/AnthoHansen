@@ -5,6 +5,8 @@
 [![Linkedin: Antho7](https://img.shields.io/badge/AnthonyD.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Antho7/)](https://www.linkedin.com/in/Antho7/)
 [![Github](https://img.shields.io/github/followers/Antho7Twitch?label=Follow&style=social)](https://github.com/Antho7Twitch)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+%26+FiveM+Developer;%2B6+years+experience+in+FiveM;Scripts+%26+Server+installation+and+optimization;Cloth+packs+and+vehicle+texture+optimization)](https://git.io/typing-svg)
+
 - 🔭 I'm working on **PHP, Python, FiveM (ESX, QBCore, QBox...), redesign and optimization of the textures of clothes and cars for FiveM servers, Creation and design of Discord Servers, and sooooo many more stuff.**
 
 - 🌱 I'm currently working and learning **Lua, PHP, Python, Javascript**
