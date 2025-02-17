@@ -9,7 +9,7 @@
 
 - 🔭 I'm working on **PHP, Python, FiveM (ESX, QBCore, QBox...), redesign and optimization of the textures of clothes and cars for FiveM servers, Creation and design of Discord Servers, and sooooo many more stuff.**
 
-- 🌱 I'm currently working and learning **Lua, PHP, Python, Javascript**
+- 🌱 I'm currently working with **PHP, Bootstrap and Python**
 
 - 👨‍💻 My projects [https://github.com/anthohansen?tab=repositories](https://github.com/anthohansen?tab=repositories)
 
