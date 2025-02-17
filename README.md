@@ -7,9 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+%26+FiveM+Dev;%2B6+Years+of+FiveM;Server+Setup+%26+Optimization;Clothes+%26+Vehicles+Textures)](https://git.io/typing-svg)
 
-- 🔭 I'm working on **PHP, Python, FiveM (ESX, QBCore, QBox...), redesign and optimization of the textures of clothes and cars for FiveM servers, Creation and design of Discord Servers, and sooooo many more stuff.**
-
-- 🌱 I'm currently working with **PHP, Bootstrap and Python**
+- 🔭 I'm working on **PHP, Bootstrap and Python** but i spend my (little) free time on FiveM Development (ESX, QBCore, QBox...), redesign and optimization of the textures of clothes and cars for FiveM servers, Creation and design of Discord Servers, and sooooo many more stuff.**
 
 - 👨‍💻 My projects [https://github.com/anthohansen?tab=repositories](https://github.com/anthohansen?tab=repositories)
 
