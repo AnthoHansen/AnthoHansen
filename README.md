@@ -2,7 +2,7 @@
 ¡Hi there! 👋, I'm AnthoHansen, welcome to my profile.
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnthoHansen.AnthoHansen)
-[![Linkedin: Antho7](https://img.shields.io/badge/AnthonyD.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Antho7/)](https://www.linkedin.com/in/Antho7/)
+[![Linkedin: Antho7](https://img.shields.io/badge/AnthonyD.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AnthoHansen/)](https://www.linkedin.com/in/AnthoHansen/)
 [![Github](https://img.shields.io/github/followers/AnthoHansen?label=Follow&style=social)](https://github.com/AnthoHansen)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+%26+FiveM+Dev;%2B6+Years+of+FiveM;Server+Setup+%26+Optimization;Clothes+%26+Vehicles+Textures)](https://git.io/typing-svg)
