@@ -2,7 +2,7 @@ Hi! I'm **Anthony Domínguez Conde**, a Full-Stack Developer specialized in buil
 
 Since **2022**, I've been working professionally designing and programming custom applications, management dashboards, and internal tools that help companies optimize processes and scale their 
 
-💼 **Currently working at:** Interamplify & as Freelance Software Developer.
+💼 **Currently working at:** [Interamplify](https://interamplify.com/) & as Freelance Software Developer.
 
 My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend, along with modern and user-friendly interfaces, prioritizing security, performance, and scalability in every project.
 
