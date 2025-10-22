@@ -1,7 +1,7 @@
-# 👋 Anthony Domínguez Conde
-### Full-Stack Developer & Software Engineer
+# 👋 Hi, i'm Anthony Domínguez a.k.a AnthoHansen.
+### Software Full-Stack Developer
 
-**Madrid, Spain | Remote Friendly**
+**Santa Cruz de Tenerife, Spain | Remote Friendly**
 
 ---
 
@@ -11,7 +11,7 @@ Since **2022**, I've been working professionally designing and programming custo
 
 My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend, along with modern and user-friendly interfaces, prioritizing security, performance, and scalability in every project.
 
-🌐 **Portfolio:** [anthony.dominguezconde.com](https://anthony.dominguezconde.com)
+🌐 **My website:** [anthony.dominguezconde.com](https://anthony.dominguezconde.com)
 
 ---
 
@@ -43,8 +43,6 @@ My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend, 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthoHansen&layout=compact&theme=dracula)
 
 ---
-
-## 🤝 Open to Collaborations
 
 Interested in working together? Have a project idea or collaboration opportunity? **Let's connect!**
 
