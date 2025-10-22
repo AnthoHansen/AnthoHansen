@@ -1,10 +1,3 @@
-# 👋 Hi, i'm Anthony Domínguez a.k.a AnthoHansen.
-### Software Full-Stack Developer
-
-**Santa Cruz de Tenerife, Spain | Remote Friendly**
-
----
-
 Hi! I'm **Anthony Domínguez Conde**, a Full-Stack Developer specialized in building modern web solutions and SaaS platforms for businesses.
 
 Since **2022**, I've been working professionally designing and programming custom applications, management dashboards, and internal tools that help companies optimize processes and scale their operations.
