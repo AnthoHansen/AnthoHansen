@@ -32,8 +32,7 @@ My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend, 
 
 ## 📊 GitHub Stats
 
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthoHansen&show_icons=true&theme=dracula&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthoHansen&layout=compact&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthoHansen&theme=darcula)
 
 ---
 
