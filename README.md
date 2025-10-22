@@ -1,20 +1,55 @@
-# 💫 About Me:
-¡Hi there! 👋, I'm AnthoHansen, welcome to my profile.
+# 👋 Anthony Domínguez Conde
+### Full-Stack Developer & Software Engineer
 
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnthoHansen.AnthoHansen)
-[![Linkedin: Antho7](https://img.shields.io/badge/AnthonyD.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AnthoHansen/)](https://www.linkedin.com/in/AnthoHansen/)
-[![Github](https://img.shields.io/github/followers/AnthoHansen?label=Follow&style=social)](https://github.com/AnthoHansen)
+**Madrid, Spain | Remote Friendly**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+%26+FiveM+Dev;%2B8+Years+of+FiveM;Server+Setup+%26+Optimization;Clothes+%26+Vehicles+Textures)](https://git.io/typing-svg)
+---
 
-- 🔭 I'm working on **PHP, Bootstrap and Python** but i spend my (little) free time on FiveM Development (ESX, QBCore, QBox...), redesign and optimization of the textures of clothes and cars for FiveM servers, Creation and design of Discord Servers, and sooooo many more stuff.**
+Hi! I'm **Anthony Domínguez Conde**, a Full-Stack Developer specialized in building modern web solutions and SaaS platforms for businesses.
 
-- 👨‍💻 My projects [https://github.com/anthohansen?tab=repositories](https://github.com/anthohansen?tab=repositories)
+Since **2022**, I've been working professionally designing and programming custom applications, management dashboards, and internal tools that help companies optimize processes and scale their operations.
 
-- 📫 Contact me by DM on Twitter **@AnthoHansen**
+My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend, along with modern and user-friendly interfaces, prioritizing security, performance, and scalability in every project.
 
-## 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthohansen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/anthohansen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anthohansen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anthonyhansen7)
+🌐 **Portfolio:** [anthony.dominguezconde.com](https://anthony.dominguezconde.com)
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+---
+
+## 📲 Social & Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthohansen) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anthohansen) [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/anthohansen) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anthohansen)
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Role | Description | Tech |
+|---------|------|-------------|------|
+| [anthony.dominguezconde.com](https://anthony.dominguezconde.com) | Owner & Developer | Professional portfolio and service platform | HTML, CSS, JavaScript |
+| Internal Management Tools | Full-Stack Developer | Custom dashboards and business process automation | PHP, MySQL, JavaScript |
+| SaaS Solutions | Backend Developer | Scalable web applications for clients | Python, MySQL, APIs |
+
+---
+
+## 📊 GitHub Stats
+
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthoHansen&show_icons=true&theme=dracula&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthoHansen&layout=compact&theme=dracula)
+
+---
+
+## 🤝 Open to Collaborations
+
+Interested in working together? Have a project idea or collaboration opportunity? **Let's connect!**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnthoHansen&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
