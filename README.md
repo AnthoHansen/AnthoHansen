@@ -1,13 +1,12 @@
 Hi! I'm **Anthony Domínguez Conde**, a Full-Stack Developer specialized in building modern web solutions and SaaS platforms for businesses.
 
-Since **2022**, I've been working professionally designing and programming custom applications, management dashboards, and internal tools that help companies optimize processes and scale their 
+Since **2022**, I've been working professionally designing and programming custom applications, management dashboards, and internal tools that help companies optimize processes, automate workflows, and scale their digital operations efficiently. 
 
 💼 **Currently working at:** [Interamplify](https://interamplify.com/) & as Freelance Software Developer.
 
-My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend, along with modern and user-friendly interfaces, prioritizing security, performance, and scalability in every project.
+My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend foundation with modern and user-focused interfaces, prioritizing security, performance, and scalability in every project.
 
 🌐 **My website:** [anthony.dominguezconde.com](https://anthony.dominguezconde.com)
-
 
 
 ---
@@ -34,13 +33,17 @@ My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend, 
 
 ---
 
+🌍 Website
+
+👉 https://anthony.dominguezconde.com || https://anisa.solutions
+
 ## 📊 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthoHansen&theme=darcula)
 
 ---
 
-Interested in working together? Have a project idea or collaboration opportunity? **Let's connect!**
+Interested in working together? Have a project idea or collaboration opportunity? **Let's talk**
 
 ---
 
