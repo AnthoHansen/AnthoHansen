@@ -6,7 +6,7 @@ Since **2022**, I've been working professionally designing and programming custo
 
 My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend foundation with modern and user-focused interfaces, prioritizing security, performance, and scalability in every project.
 
-🌐 **My website:** [anthony.dominguezconde.com](https://anthony.dominguezconde.com)
+🌐 **My websites:** 👉 https://anthony.dominguezconde.com || https://anisa.solutions
 
 
 ---
@@ -32,10 +32,6 @@ My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend f
 | Web Development | Full-Stack Developer | Professional web pages | NextJS, Wordpress, MySQL, APIs |
 
 ---
-
-## 🌍 Website
-
-👉 https://anthony.dominguezconde.com || https://anisa.solutions
 
 ## 📊 GitHub Stats
 
