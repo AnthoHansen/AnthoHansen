@@ -2,7 +2,7 @@ Hi! I'm **Anthony Domínguez Conde**, a Full-Stack Developer specialized in buil
 
 Since **2022**, I've been working professionally designing and programming custom applications, management dashboards, and internal tools that help companies optimize processes, automate workflows, and scale their digital operations efficiently. 
 
-💼 **Currently working at:** [Interamplify](https://interamplify.com/) & as Freelance Software Developer.
+💼 **Currently:** CEO & Co-founder at [Anisa Solutions](https://anisa.solutions) · Developer at [Interamplify](https://interamplify.com/) · Software Developer.
 
 My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend foundation with modern and user-focused interfaces, prioritizing security, performance, and scalability in every project.
 
@@ -13,23 +13,24 @@ My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend f
 
 ## 📲 Social & Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/anthohansen) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/anthohansen) [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/anthohansen) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anthohansen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/anthohansen) [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anthohansen) [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/anthohansen) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anthohansen)
 
 ---
 
 ## 💻 Tech Stack
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ## 🚀 My Current Projects
 
 | Project | Role | Description | Tech |
 |---------|------|-------------|------|
-| [anthony.dominguezconde.com](https://anthony.dominguezconde.com) | Developer Website | Professional portfolio and service platform | NextJS |
+| [Anisa Solutions](https://anisa.solutions) | CEO & Co-founder | Digital agency building custom web solutions and SaaS platforms for businesses | Next.js, TypeScript, TailwindCSS, MySQL, APIs |
+| [anthony.dominguezconde.com](https://anthony.dominguezconde.com) | Developer Website | Professional portfolio and service platform | Next.js, TypeScript |
 | Internal Management Tools | Full-Stack Developer | Custom dashboards and business process automation | PHP, MySQL, JavaScript |
-| SaaS Solutions | Backend Developer | Scalable web applications for clients | PHP, JavaScript, NextJS, Python, MySQL, APIs |
-| Web Development | Full-Stack Developer | Professional web pages | NextJS, Wordpress, MySQL, APIs |
+| SaaS Solutions | Full-Stack Developer | Scalable web applications for clients | Next.js, TypeScript, PHP, Python, MySQL, APIs |
+| Web Development | Full-Stack Developer | Professional websites for clients | Next.js, WordPress, TailwindCSS, APIs |
 
 ---
 
