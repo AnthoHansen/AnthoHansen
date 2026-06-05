@@ -2,7 +2,7 @@ Hi! I'm **Anthony Domínguez Conde**, a Full-Stack Developer specialized in buil
 
 Since **2022**, I've been working professionally designing and programming custom applications, management dashboards, and internal tools that help companies optimize processes, automate workflows, and scale their digital operations efficiently. 
 
-💼 **Currently:** CEO & Co-founder at [Anisa Solutions](https://anisa.solutions) · Developer at [Interamplify](https://interamplify.com/) · Software Developer.
+💼 **Currently:** CEO & Co-founder at [Anisa Solutions](https://anisa.solutions) · Software Architect at [Interamplify](https://interamplify.com/) · Software Developer.
 
 My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend foundation with modern and user-focused interfaces, prioritizing security, performance, and scalability in every project.
 
