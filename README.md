@@ -36,7 +36,18 @@ My approach combines a solid **PHP, MySQL, Python** and **JavaScript** backend f
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthoHansen&theme=darcula)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnthoHansen&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnthoHansen&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnthoHansen&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthoHansen&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 ---
 
